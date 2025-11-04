@@ -17,7 +17,7 @@ This project demonstrates CRUD operations using **Spring Boot**, **MySQL**, and 
 - Update user details
 - Delete user
 - Linked with Orders table via foreign key
-
+Here is the fun part
 ## 🚀 How to Run
 1. Clone the repository
 2. Configure MySQL credentials in `application.properties`
